@@ -1,0 +1,30 @@
+footer {
+  background: var(--color-primary);
+  margin-top: 8rem;
+}
+.footer_socials {
+  display: flex;
+  padding: 2rem;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 4rem;
+}
+
+.footer_socials a {
+  background-color: var(--color-bg);
+  color: var(--color-white);
+  padding: 0.8rem;
+  border-radius: 0.7rem;
+  display: flex;
+  border: 1px solid transparent;
+}
+
+.footer_socials a:hover {
+  background: transparent;
+  color: var(--color-bg);
+  border-color: var(--color-bg);
+}
+
+.footer_copy {
+  text-align: center;
+}
