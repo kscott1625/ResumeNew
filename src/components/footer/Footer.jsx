@@ -10,10 +10,13 @@ const Footer = () => {
         Kat
       </a>
       <div className="footer_socials">
-        <a href="https://linkedin.com" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/katherine-scott-a0a82022a/"
+          target="_blank"
+        >
           <BsLinkedin />
         </a>
-        <a href="https://github.com" target="_blank">
+        <a href="https://github.com/kscott1625" target="_blank">
           <FaGithub />
         </a>
       </div>

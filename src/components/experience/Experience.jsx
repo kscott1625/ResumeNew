@@ -14,36 +14,30 @@ const Experience = () => {
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>Javascript</h4>
-
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>Bootstrap</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
@@ -55,15 +49,12 @@ const Experience = () => {
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>Node JS</h4>
-
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <BsCheckSquareFill className="experience_details-icon" />
               <div>
                 <h4>MongoDB</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
